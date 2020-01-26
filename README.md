@@ -1,2 +1,3 @@
 # WolfTracksTessellation
 This project showcases tessellation-based snow tracks made in the Unity game engine. The main character is a wolf with a walk, run and idle animations. The user controls the movement of the wolf and the camera rotation. The scene contains snowy mountain environment with fog and a snow particle system. Every polygon in plane on which wolf moves is tessellated based on the distance from the camera. Every footstep is accompanied by a snow track on that spot, color change and a sound. Over time snow accumulates so that the tracks disappear slowly.
+![WolfTracks](2020MarkoCavalli.png)
